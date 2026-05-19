@@ -8,8 +8,7 @@ I'm Henok, an electrical & computer engineering student based in Munich.
 Outside of studying, I'm interessted in following the developments of science. I play video games and make tech-related content.
 #### Let's connect!
 
-<svg width="30" height="30" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-
+[![My Skills](https://skillicons.dev/icons?i=Linkedin)]([https://www.linkedin.com/in/henoktsige])
 
 
 
