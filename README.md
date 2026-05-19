@@ -5,7 +5,6 @@
 
 I'm Henok, an electrical & computer engineering student based in Munich.
 
-Outside of studying, I'm interessted in following the developments of science. I make tech-related content and play video games.
-
+Outside of studying, I'm interessted in following the developments of science. I play video games make and make tech-related content.
 #### Let's connect!
 
