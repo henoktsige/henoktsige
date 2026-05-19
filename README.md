@@ -9,7 +9,5 @@ Outside of studying, I'm interessted in following the developments of science. I
 #### Let's connect!
 
 <a href="https://www.linkedin.com/in/henoktsige" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"/>
-
-
+<img width="30" height="30"src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"/>
 
