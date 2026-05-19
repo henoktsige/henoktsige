@@ -1,4 +1,4 @@
-### Hi there! <img width="23" height="23" alt="Emoji Raises Hand Sticker - The Blobs Live On Waving Hey - Discover   Share GIFs" src="https://github.com/user-attachments/assets/0d2765c5-3444-47f0-8f7f-db803705f3bc" />
+### Hi there! <img width="22" height="22" alt="Emoji Raises Hand Sticker - The Blobs Live On Waving Hey - Discover   Share GIFs" src="https://github.com/user-attachments/assets/0d2765c5-3444-47f0-8f7f-db803705f3bc" />
 
 
 
