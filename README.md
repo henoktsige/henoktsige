@@ -3,7 +3,7 @@
 
 
 
-I'm Henok, an electrical & computer engineering student @Technical University of Munich<a href="https://www.tum.de/en/" target="blank.">@Technical University of Munich
+I'm Henok, an electrical & computer engineering student <a href="https://www.tum.de/en/" target="blank."> @Technical University of Munich.
 
 Outside of studying, I'm interested in following scientific developments. I also play video games and make tech-related content.
 #### Let's connect!
