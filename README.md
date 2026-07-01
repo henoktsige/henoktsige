@@ -5,7 +5,7 @@
 
 I'm Henok, an electrical & computer engineering student [@Technical University of Munich](https://www.tum.de/en/).
 
-Outside of studying, I enjoy following scientific developments, rock climbing,hiking, and play video games. I also make tech-related content.
+Outside of studying, I enjoy following scientific developments, rock climbing, hiking and play video games. I also make tech-related content.
 
 #### Let's connect!
 
