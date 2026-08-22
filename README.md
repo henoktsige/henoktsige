@@ -7,7 +7,7 @@ I'm Henok, an electrical & computer engineering student [@Technical University o
 
 Outside of studying, I enjoy following scientific developments, rock climbing, hiking and playing video games.
 
-#### Let's connect
+#### Let's connect!
 
 <a href="https://www.linkedin.com/in/henoktsige" target="blank">
 <img width="30" height="30"src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"/>
